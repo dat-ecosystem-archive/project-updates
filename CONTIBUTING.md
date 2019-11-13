@@ -11,7 +11,7 @@
 
 - Create a branch for your update
 - Create a file that's using [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) eg `YYY-MM-DD.md`
-- Write your updates in whatever format you want
+- Structure your post however you want with markdown
 - Submit a PR to the `master` branch
 - Merge your own PR (This just gives us a paper trail and send updates to people following the repo)
 
