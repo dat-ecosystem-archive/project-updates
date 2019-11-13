@@ -4,13 +4,13 @@
 
 - Open a github issue talking about your project
 - Wait to get write access to the repo
-- Create a folder for your project with its name
-- Create a `README.md` in the folder root for your project, look at what others are doing but feel free to make your own thing
+- Copy the folder named `project-template` and rename it with your project's name
+- Change the `README.md` therein to better reflect your project, look at what others are doing but feel free to make it your own thing
 
 ## How should I post updates
 
 - Create a branch for your update
-- Create a file that's using [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) eg `YYY-MM-DD.md`
+- Create a new markdown file named using [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) eg `YYYY-MM-DD.md`
 - Structure your post however you want with markdown
 - Submit a PR to the `master` branch
 - Merge your own PR (This just gives us a paper trail and send updates to people following the repo)
