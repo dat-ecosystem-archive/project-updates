@@ -4,8 +4,8 @@
 
 - Open a github issue talking about your project
 - Wait to get write access to the repo
-- Create a folder for your project with it's name
-- Create a README for your project, look at what others are doing but feel free to make your own thing
+- Create a folder for your project with its name
+- Create a `README.md` in the folder root for your project, look at what others are doing but feel free to make your own thing
 
 ## How should I post updates
 
