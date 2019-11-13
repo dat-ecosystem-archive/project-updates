@@ -1,5 +1,5 @@
 # Project Updates
-updates from the various projects working on or with dat
+Updates from the various projects working on or with dat.
 
 ## Projects 
-* [cabal](cabal/README.md)
+* [Cabal](cabal/README.md) a peer-to-peer group chat written with dat's primitives
