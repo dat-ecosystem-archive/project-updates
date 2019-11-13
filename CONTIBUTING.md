@@ -7,7 +7,7 @@
 - Copy the folder named `project-template` and rename it with your project's name
 - Change the `README.md` therein to better reflect your project, look at what others are doing but feel free to make it your own thing
 
-## How should I post updates
+## How to post updates
 
 - Create a branch for your update
 - Create a new markdown file named using [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) eg `YYYY-MM-DD.md`
@@ -22,3 +22,7 @@
 - Links to modules
 - Links to people working on the project
 - Links to communication channels (eg. #dat on IRC)
+
+## Other questions?
+
+[Open a new issue](https://github.com/datproject/project-updates/issues/new)
