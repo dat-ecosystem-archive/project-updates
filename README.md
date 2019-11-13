@@ -2,7 +2,7 @@
 Updates from the various projects working on or with dat.
 
 ## Purpose
-This repository was intiated through conversations in the Dat Consortium about wanting to improve communications between the various projects using and contributing to the Dat Ecosystem. 
+This repository was initiated through conversations in the Dat Consortium about wanting to improve communications between the various projects using and contributing to the dat ecosystem. 
 
 Its aim is to help projects keep themselves and others up to date. Please direct people interested in dat's projects here :)
 
