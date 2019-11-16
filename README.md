@@ -8,6 +8,7 @@ Its aim is to help projects keep themselves and others up to date. Please direct
 
 ## Projects 
 * [Cabal](cabal/README.md), a peer-to-peer group chat written with dat's primitives
+* [Beaker Browser](beaker-browser/README.md), an experimental p2p Web browser
 
 ## Contributing
 If you have a project using dat, or you're a person involved with dat somehow, 
