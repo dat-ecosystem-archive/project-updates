@@ -32,7 +32,7 @@ on the Amazon (Dutch Postcode Lottery), and Samsung Next Zero.
 * [Github: Mapeo Mobile](https://github.com/digidem/mapeo-mobile)
 * [Github: Mapeo Core](https://github.com/digidem/mapeo-core)
 * [Website](https://mapeo.world)
-* [People]()
+* [People](https://www.digital-democracy.org/team/)
 * [#ddem on IRC, in freenode](https://webchat.freenode.net/), or [Slack](https://slack.digital-democracy.org/)
 
 We have collected project updates that we've written under **Project updates** below.
