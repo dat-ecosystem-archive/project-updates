@@ -11,4 +11,5 @@ We have collected project updates that we've written under **Project updates** b
 
 ### Project updates
 
+* [2019-11-26](2019-11-26.md)
 * [2019-11-18](2019-11-18.md)
