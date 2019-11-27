@@ -8,7 +8,7 @@ with plans on mobile and web clients underway.
 * [Github](https://github.com/cabal-club/)
 * [Website](https://cabal.chat)
 * [People](https://github.com/cabal-club/commons/blob/master/contributors.md)
-* Come talk to us in the public cabal (see [website](https://cabal.chat)) or on IRC at #cabal-club on freenode
+* Come talk to us in the public cabal (see [website](https://cabal.chat)) or on IRC at `#cabal.club` on freenode
 
 We have collected community updates that we've written under **Project updates** below.
 
