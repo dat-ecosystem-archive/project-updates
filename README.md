@@ -12,6 +12,7 @@ Its aim is to help projects keep themselves and others up to date. Please direct
 * [Mapeo](mapeo/README.md), a local-first mapping and monitoring toolset for many types of data
 * [datdot](datdot/README.md), a p2p alternative to hashbase.io for hypercores 
 * [Ara](ara/README.md), decentralized tools for delivery and monetization for creators and fans
+* [Decentstack](decentstack/README.md), a microframework for building kappa architecture dapps compatible with kappa-core
 
 ## Contributing
 If you have a project using dat, or you're a person involved with dat somehow, 
