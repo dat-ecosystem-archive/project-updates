@@ -15,5 +15,6 @@ manager for kappa-core applications.
 We have collected project updates that we've written under **Project updates** below.
 
 ### Project updates
-* [2019-11-27](2019-11-27.md)
+* [2019-11-27](2019-11-27.md) Decentstack timeplan
+* [2020-01-07](2020-01-07.md) Release: HyperSimulator
 
