@@ -15,6 +15,7 @@ Its aim is to help projects keep themselves and others up to date. Please direct
 * [Decentstack](decentstack/README.md), a microframework for building kappa architecture dapps compatible with kappa-core
 * [p2pcommons](p2pcommons/README.md), a set of specifications to make a peer-to-peer commons 
 * [Hypergraph](hypergraph/README.md), an application utilizing the p2pcommons for project management, tracking, planning, and sharing
+* [Cliqz](cliqz/README.md), an privacy-centered Web browser with p2p support
 
 ## Contributing
 If you have a project using dat, or you're a person involved with dat somehow, 
