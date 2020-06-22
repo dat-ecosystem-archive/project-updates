@@ -1,0 +1,19 @@
+# 2020-06-19 update Hypergraph
+
+ [`@hypergraph-xyz/desktop`](https://github.com/hypergraph-xyz/desktop)
+
+*Project management tool for stepwise projects, designed with scientific research in mind - Desktop version*
+
+- `v0.3.0` [released](https://github.com/hypergraph-xyz/desktop/releases), introducing profile editing, live chat for support & feedback reporting and a bunch of visual, textual and usability improvements
+- User tests are continuing to provide high quality feedback on our *as-you-go* process. We're learning what is necessary to support various types of researchers in their daily work
+- Currently working on:
+  - Sharing and viewing remote profiles and content
+  - Designs for a map view of networked content modules
+  - Editing content
+  - Backup and restore of keys + user data
+
+ [`@hypergraph-xyz/cli`](https://github.com/hypergraph-xyz/cli)
+
+*Project management tool for stepwise projects, designed with scientific research in mind - Command Line version*
+
+- No updates
